@@ -19,11 +19,11 @@ const Contact: React.FC = () => {
             <div className="space-y-6">
                <div className="p-6 border border-stone-200 rounded-sm bg-stone-50">
                  <h4 className="text-stone-900 text-sm uppercase tracking-widest mb-2 font-bold">Headquarters</h4>
-                 <p className="text-stone-500">100 Enterprise Way, Tech Park<br/>Building 4, Floor 12</p>
+                 <p className="text-stone-500">B – 702, Woodland, Lokhandwala complex,<br/>Andheri West, Mumbai, India</p>
                </div>
                <div className="p-6 border border-stone-200 rounded-sm bg-stone-50">
                  <h4 className="text-stone-900 text-sm uppercase tracking-widest mb-2 font-bold">Direct Line</h4>
-                 <p className="text-stone-500">+1 (555) 012-3456<br/>strategy@ubiki.com</p>
+                 <p className="text-stone-500">+919321314352<br/>strategy@ubiki.com</p>
                </div>
             </div>
           </div>

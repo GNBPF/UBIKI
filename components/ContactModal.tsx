@@ -46,7 +46,7 @@ const ContactModal: React.FC<ContactModalProps> = ({ isOpen, onClose }) => {
                   </div>
                   <div>
                       <label className="block text-xs uppercase tracking-widest font-bold text-stone-500 mb-2">Phone Number</label>
-                      <input type="tel" className="w-full bg-white/60 border border-stone-200 rounded-lg px-4 py-3 text-stone-900 placeholder-stone-400 focus:outline-none focus:border-emerald-600 focus:bg-white transition-all" placeholder="+1 (555) 000-0000" />
+                      <input type="tel" className="w-full bg-white/60 border border-stone-200 rounded-lg px-4 py-3 text-stone-900 placeholder-stone-400 focus:outline-none focus:border-emerald-600 focus:bg-white transition-all" placeholder="+91 00000 00000" />
                   </div>
                   <div>
                       <label className="block text-xs uppercase tracking-widest font-bold text-stone-500 mb-2">Message</label>
