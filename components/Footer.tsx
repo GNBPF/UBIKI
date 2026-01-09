@@ -41,13 +41,13 @@ const Footer: React.FC = () => {
         </div>
 
         {/* Content Bottom */}
-        <div className="relative z-20 p-8 md:p-16 flex flex-col md:flex-row justify-between items-end border-t border-white/10 mx-8 md:mx-16">
+        <div className="relative z-20 p-8 md:p-16 flex flex-col md:flex-row justify-between items-start md:items-end border-t border-white/10 mx-8 md:mx-16">
            <div className="text-stone-400 text-xs uppercase tracking-widest space-y-2 mb-8 md:mb-0">
              <p>&copy; {new Date().getFullYear()} Ubiki Waste Solutions.</p>
              <p>Official Affiliate Partner of Solwaste.</p>
            </div>
 
-           <div className="flex gap-8">
+           <div className="flex gap-6 md:gap-8 flex-wrap">
              {['LinkedIn', 'Instagram', 'Twitter'].map((social) => (
                <a key={social} href="#" className="text-sm text-stone-400 hover:text-white transition-colors uppercase tracking-widest">
                  {social}
