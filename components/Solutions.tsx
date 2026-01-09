@@ -28,7 +28,7 @@ const Solutions: React.FC<SolutionsProps> = ({ onOpenModal }) => {
           
           {/* Background Image */}
           <img 
-            src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1742967421354-8518bcfbec4d?q=80&w=2940&auto=format&fit=crop" 
             alt="Engineering Detail" 
             className="absolute inset-0 w-full h-full object-cover opacity-40 group-hover:scale-105 transition-transform duration-[1.5s]" 
           />
@@ -59,7 +59,7 @@ const Solutions: React.FC<SolutionsProps> = ({ onOpenModal }) => {
         </div>
 
         {/* Categories (No Specs) */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8 md:mt-12 lg:mt-8 border-t border-stone-200 pt-8 lg:pt-6">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8 md:mt-12 lg:mt-8 border-t border-stone-200 pt-8 lg:pt-6 pb-12 md:pb-16 lg:pb-20">
            <div>
               <h4 className="text-lg font-bold text-stone-900 mb-2">Decentralized</h4>
               <p className="text-stone-500 text-sm">Compact units for cafeterias & pantries.</p>

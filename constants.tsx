@@ -66,14 +66,14 @@ export const USE_CASES: UseCase[] = [
     title: 'Corporate Campuses',
     statement: 'Transforming cafeteria waste into landscape assets.',
     metric: 'Zero Waste to Landfill',
-    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2301&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1684831652478-bbb14ca80771?q=80&w=2940&auto=format&fit=crop'
   },
   {
     id: 'residential',
     title: 'Residential Communities',
     statement: 'Hygiene-first waste processing for premium townships.',
     metric: '60% Cost Reduction',
-    image: 'https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2674&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1632398414290-15262b0ec12d?q=80&w=3068&auto=format&fit=crop'
   },
   {
     id: 'institution',
@@ -87,7 +87,7 @@ export const USE_CASES: UseCase[] = [
     title: 'Industrial Facilities',
     statement: 'High-volume processing for manufacturing canteens.',
     metric: 'ESG Reporting Ready',
-    image: 'https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?q=80&w=2670&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1764185800646-f75f7e16e465?q=80&w=2940&auto=format&fit=crop'
   }
 ];
 
