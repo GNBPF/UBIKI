@@ -19,6 +19,11 @@ const Footer: React.FC = () => {
         {/* Content Top */}
         <div className="relative z-20 p-8 md:p-16 flex flex-col md:flex-row justify-between items-start">
           <div className="mb-12 md:mb-0">
+             <img 
+               src="/logo.png" 
+               alt="Ubiki Logo" 
+               className="mb-6 h-12 md:h-16 w-auto"
+             />
              <h2 className="text-4xl md:text-6xl font-bold text-white leading-tight max-w-2xl">
                Ready to design your <br />
                <span className="text-emerald-500">waste infrastructure?</span>
